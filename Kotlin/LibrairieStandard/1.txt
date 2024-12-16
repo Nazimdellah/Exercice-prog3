@@ -1,0 +1,7 @@
+Veuillez entrer un nombre :
+pipo
+Ceci n’est pas un nombre, veuillez entrer un nombre :
+popi
+Ceci n’est pas un nombre, veuillez entrer un nombre :
+123
+Merci, votre nombre est 123.

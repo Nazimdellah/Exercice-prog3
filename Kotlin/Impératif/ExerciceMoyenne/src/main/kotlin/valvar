@@ -1,0 +1,8 @@
+val et var se ressemblentnt
+ils sont des utilises pour declarer des variables
+il est impossible de changer la valeur du val apres la declaration
+il est possible de changer la valeur du var apres la declaraiotn
+
+en somme:
+val : Immautabilité
+var : Mautabilité
